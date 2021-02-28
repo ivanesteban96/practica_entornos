@@ -4,7 +4,7 @@ import java.util.Date;
 public abstract class Tarjeta
 {
 	public String numero; //hola ke ase
-	public String titular;
+	public String titular; //modificacion
 	public Date fechaDeCaducidad;
 	public Cuenta cuentaAsociada;
 	
