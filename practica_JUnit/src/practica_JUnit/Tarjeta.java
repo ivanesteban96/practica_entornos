@@ -5,7 +5,7 @@ public abstract class Tarjeta
 {
 	public String numero; //hola ke ase
 	public String titular; //modificacion
-	public Date fechaDeCaducidad;
+	public Date fechaDeCaducidad; //tag
 	public Cuenta cuentaAsociada;
 	
 	public Tarjeta(String _numero, String _titular, Date _fechaCaducidad)
